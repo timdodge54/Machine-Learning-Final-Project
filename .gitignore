@@ -3,3 +3,5 @@
 *.zip
 **/*.csv
 **/*.pyc
+.mypy_cache/
+**/__pycache__/
